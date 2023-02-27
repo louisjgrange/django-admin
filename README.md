@@ -2,6 +2,10 @@
 
 # Django Admin
 A template to make your django admin website look more modern.
+## Features
+- Updated UI for every admin page
+- Two-factor authentification (2FA)
+- More features coming...
 ## Installation
 First, install this package normally with pip
 ```
@@ -14,3 +18,9 @@ INSTALLED_APPS = [
   ...
 ]
 ```
+You can now run your Django server with
+```
+python3 manage.py runserver
+```
+## Customization
+Currently, no options are available for customization, but I'm working on it !

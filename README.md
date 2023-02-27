@@ -1,4 +1,4 @@
-![](https://shields.io/github/v/release/:user/:repo?display_name=tag) ![wfe](https://shields.io/github/last-commit/louisjgrange/django-admin)
+![](https://shields.io/github/v/release/louisjgrange/django-admin?display_name=tag) ![](https://shields.io/github/issues-raw/louisjgrange/django-admin) ![](https://shields.io/github/last-commit/louisjgrange/django-admin)
 
 # Django Admin
 A template to make your django admin website look more modern.

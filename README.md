@@ -1,4 +1,4 @@
-![](https://shields.io/github/v/release/louisjgrange/django-admin?display_name=tag) [![](https://shields.io/pypi/pyversions/django?color=0C4B33&logo=django&logoColor=white&label=django)](https://www.djangoproject.com/) ![](https://shields.io/github/repo-size/louisjgrange/django-admin) ![](https://shields.io/github/issues-raw/louisjgrange/django-admin) ![](https://shields.io/github/last-commit/louisjgrange/django-admin)
+![](https://shields.io/github/v/release/louisjgrange/django-admin?display_name=tag) [![](https://img.shields.io/badge/django-4.1.7-blue)](https://www.djangoproject.com/) ![](https://shields.io/github/repo-size/louisjgrange/django-admin) ![](https://shields.io/github/issues-raw/louisjgrange/django-admin) ![](https://shields.io/github/last-commit/louisjgrange/django-admin)
 
 # Django Admin Magnify
 A lightweight package to make your django admin website look more modern and secure.

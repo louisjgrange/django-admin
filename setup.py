@@ -6,5 +6,5 @@ setup(
    description='A useful module',
    author='Louis Grange',
    packages=['django-admin-magnify'],
-   install_requires=['django>=4.0'],
+   install_requires=['django==4.1.7'],
 )
